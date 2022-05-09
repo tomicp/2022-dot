@@ -1,0 +1,2 @@
+#!/bin/sh
+alsactl --file ~/.config/asound.state restore	# Alsa restore

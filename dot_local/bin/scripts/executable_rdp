@@ -1,0 +1,2 @@
+#!/bin/sh
+xfreerdp /u:root /v:192.168.0.25:3389 /size:1200x720 /bpp:24

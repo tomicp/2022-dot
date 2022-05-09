@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# echo "WTF"
+# b="$(xkblayout-state print "%s")"
+# printf "$(setxkbmap -query | grep -oP 'layout:\s*\K\w+')"
+case $BLOCK_BUTTON in
+	3) notify-send "$(xkblayout-state print "Current layout: %s(%n)")";;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+# printf "$(setxkbmap -query | grep -oP 'layout:\s*\K\w+')"
+xsetroot -name "$(xkblayout-state print '%s')"
+# echo "$kb"

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+less ~/.config/alist | dmenu -i -l 25 > /dev/null

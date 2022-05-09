@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# Get user selection via dmenu from cmd-helper file.
+chosen=$(less ~/.config/cmd-helper | dmenu -i -l 15)
+
+# Exit if none chosen.
+[ -z "$chosen" ] && exit
+
+# Copy line and show a message
+echo "$chosen" | xclip -selection clipboard
+notify-send "'$chosen' copied to clipboard." &

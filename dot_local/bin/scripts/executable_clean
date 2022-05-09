@@ -1,0 +1,3 @@
+#!/bin/sh
+
+[ ! -z $(pacman -Qtdq) ] && sudo pacman -Rns || echo "Ne postoje fajlovi koje treba ukloniti!"

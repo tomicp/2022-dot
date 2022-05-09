@@ -1,0 +1,23 @@
+fb71060049f829e48fc392e0be43d1040c271204		branch 'master' of https://github.com/jreybert/vimagit
+1a133c69d082b49fe1c363707707f6e6a5b1d4fb	not-for-merge	branch 'dev/catch_shell_error' of https://github.com/jreybert/vimagit
+0cbd6b43d49102a11bd9192dc8beba679259b346	not-for-merge	branch 'dev/close' of https://github.com/jreybert/vimagit
+cf103a81b2c1dcf6b0c741fce04d0f32e4443655	not-for-merge	branch 'dev/debug' of https://github.com/jreybert/vimagit
+d5e8a8afcd5ff66f50cbded40ba550ee4d50978b	not-for-merge	branch 'dev/discard_vselect' of https://github.com/jreybert/vimagit
+ad95ede203d780cbf643ce5d2f3ce038b7d7b66a	not-for-merge	branch 'dev/display' of https://github.com/jreybert/vimagit
+a9e5c1fd1bbb33a9c0028f5c88d6b4395af95857	not-for-merge	branch 'dev/git_diff' of https://github.com/jreybert/vimagit
+32fb1e1707dce22349205f1013496e9f8a25cafe	not-for-merge	branch 'dev/issue_123' of https://github.com/jreybert/vimagit
+f20bfdaa264305acb767b266e03567b5266dbb77	not-for-merge	branch 'dev/issue_71' of https://github.com/jreybert/vimagit
+8d74522205b8bf7e208221f882e19462fe6e477c	not-for-merge	branch 'dev/mapping' of https://github.com/jreybert/vimagit
+fb0e9e9dc6815e26e69bbb2c4cb0d691127cdaa9	not-for-merge	branch 'dev/mapping_2' of https://github.com/jreybert/vimagit
+9a7bc7867ece4fa044715faba289ec570f4450ca	not-for-merge	branch 'dev/nomodifiable' of https://github.com/jreybert/vimagit
+033a381a3f95d67836ae23d24f2e344c38893d8e	not-for-merge	branch 'dev/push' of https://github.com/jreybert/vimagit
+5dcef50f024b8744a7ead4375ece4495710372e3	not-for-merge	branch 'dev/refresh' of https://github.com/jreybert/vimagit
+e1501e1eaf3214951e70bbb058bd05e1f002a824	not-for-merge	branch 'dev/remove_end_commit' of https://github.com/jreybert/vimagit
+e8c633932d3b07fd146a30dbe39c95a957d59645	not-for-merge	branch 'dev/save_commmit_msg' of https://github.com/jreybert/vimagit
+e538b6246a0b12c7a532708d64b2df7f322c048c	not-for-merge	branch 'dev/stash' of https://github.com/jreybert/vimagit
+ad714765d9f79f09ac44f40d2a89d63bc3cc81c4	not-for-merge	branch 'dev/test_commit' of https://github.com/jreybert/vimagit
+c6458e6d0e0a062dcbfbfa56cf9e280910195843	not-for-merge	branch 'dev/test_filetype' of https://github.com/jreybert/vimagit
+f9c7e1f7832b7d7d38adb30db322d674b187c05b	not-for-merge	branch 'dev/undo' of https://github.com/jreybert/vimagit
+ff273a86af1a7021c0650df69d7ecf856e6a89ca	not-for-merge	branch 'gh-pages' of https://github.com/jreybert/vimagit
+421ecc942781fc55e170f312c51541f6f4e8b9d0	not-for-merge	branch 'next' of https://github.com/jreybert/vimagit
+811cafa5cc5711794f28ca1565f8e2e29a153bbf	not-for-merge	branch 'readme' of https://github.com/jreybert/vimagit
